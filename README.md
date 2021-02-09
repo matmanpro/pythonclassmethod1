@@ -1,0 +1,1 @@
+# pythonclassmethod1
